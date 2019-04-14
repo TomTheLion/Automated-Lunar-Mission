@@ -8,6 +8,4 @@ The classes folder contains the python code for each segment of the mission. The
 
 The goal of this project was to land a spacecraft on the Mun using automated guidance and precalculated burns. I originally underestimated the complexity of this task. It seemed that each part that I thought would be simple was not, and each problem I solved resulted in two more. If I had known how long it was going to take and how hard it was going to be, I may have never started. But here we are!
 
-I did not want to get into too much detail in this post, but I would be happy to answer any questions about how my code works
-
 Special thanks to Noiredd for developing PEGAS and Eggrobin and Pleroy for developing principia. Without these I would not have been able to complete this project.
