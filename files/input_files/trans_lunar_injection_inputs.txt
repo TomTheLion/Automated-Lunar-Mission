@@ -1,0 +1,13 @@
+_vessel properties
+thrust (N), 300000
+specific impulse (s), 330
+mass (kg), 52599.765625
+launch time offset (s), 313.0399999997153
+launch angle offset (rad), 1.90792630797622
+_trajectory constraints
+initial radius, 1.15
+return radius, 1.15
+approach radius, 2.5
+outbound inclination, 48
+return inclination, 48
+launch direction, north

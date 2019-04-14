@@ -1,0 +1,50 @@
+_vessel parameters
+0  mass, 3433
+1  thrust, 20000
+2  exhaust velocity, 3138
+_body parameters
+3  radius, 200000
+4  gravitational parameter, 6.5138398e10
+5  surface gravity, 1.626
+6  body rotation, 4.520785296335e-5
+_descent orbit parameters
+7  apoapsis, 350000
+8  periapsis, 215000
+9  latitude, 35
+10 longitude, -75
+11 terrain offset, 0
+12 node direction, -1
+13 velocity direction, -1
+_vessel constants
+14 lead time, 2
+15 minimum throttle, 1
+16 trim thrust, 0
+17 trim time, 0
+18 ullage time, 0
+_guidance constants
+19 tau, 8
+20 kj, 1.2
+21 kig, -25
+22 kgt1, 0
+23 kgt2, 0
+24 kgt3, 1
+25 kgt4, 0
+_approach phase parameters
+26 tapi, -110
+27 tapm, -30
+28 tapf, -10
+29 rapigx, 5000
+30 rapigz, -7500
+31 rapmgx, 150
+32 rapmgz, -150
+33 vapmgx, -14
+34 vapmgz, 15
+35 rapfgx, 30
+36 vapfgx, -1
+_terminal braking phase constraints
+37 tbri, -175
+38 throttle recovery time, -136
+39 tbrf, -20
+40 mbrf, 2400
+41 prbf, 1.05
+42 fbrf, 12000

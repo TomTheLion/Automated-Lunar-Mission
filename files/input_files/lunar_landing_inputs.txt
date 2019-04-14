@@ -1,0 +1,6 @@
+_landing location
+latitude, 35
+longitude, -75
+_descent orbit parameters
+apoapsis, 150000
+periapsis, 15000
